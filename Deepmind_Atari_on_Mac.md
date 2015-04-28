@@ -1,5 +1,4 @@
-Running Google DeepMind Atari Deep Q Learner on an Ubuntu VirtualBox in OS X on a Mac Pro (Cylinder)
-==============================================================
+# Running Google DeepMind Atari Deep Q-Network on an Ubuntu VirtualBox in OS X on a Mac Pro (Cylinder)
 
 Follow the following steps and expect to spend some time debugging the procedure!
 
