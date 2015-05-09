@@ -1,2 +1,8 @@
+# OS generate files
 ._*
+
+# Compressed packages
 *.zip
+
+# Jekyll processed files
+_site/

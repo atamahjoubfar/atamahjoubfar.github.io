@@ -2,9 +2,9 @@ url: https://atamahjoubfar.github.io
 baseurl: 
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: Ata Mahjoubfar
+email: ata.m@ucla.edu
+description: "This is Ata Mahjoubfar's personal website. He is a data capture and analytics expert."
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -50,20 +50,20 @@ people:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: http://twitter.com/atamahjoubfar
   - title: facebook
-    url:
+    url: http://www.facebook.com/atamahjoubfar
   - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
+    url: http://stackoverflow.com/users/4193504/ata
   - title: bitbucket 
-    url: http://bitbucket.org/jekyll
+    url: https://bitbucket.org/atamahjoubfar
   - title: github
-    url: http://github.com/jekyll
+    url: https://github.com/atamahjoubfar
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: 420 Westwood Plaza
+  - line: Los Angeles, CA 90095
 
 # Build settings
 markdown: kramdown
