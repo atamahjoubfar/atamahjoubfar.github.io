@@ -1,28 +1,20 @@
-<!DOCTYPE HTML>
-<html lang="en-US">
-    <head>
-        <meta charset="UTF-8">
-        <!-- Google Analytics code -->
-        <script>
-  			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  			})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+---
+layout: default
+---
 
-  			ga('create', 'UA-62146041-1', 'auto');
-  			ga('send', 'pageview');
+<div class="home">
 
-    		</script>
+  <h1>Posts</h1>
 
-        <title>Ata Mahjoubfar's blog</title>
-    </head>
-    <body>
-        <p>Here are a few resources:</p> 
-        <p> 
-        	Follow this <a href='http://atamahjoubfar.github.io/torch4matlab'>link to Torch Guide for Matlab Users</a>.
-        </p>
-        <p>
-        	Follow this <a href='http://atamahjoubfar.github.io/Deepmind_Atari_on_Mac.md'>link for instructions on running Google DeepMind Atari deep Q-network on an Ubuntu VirtualBox in Apple OS X on a Mac Pro</a>.
-        </p>
-    </body>
-</html>
+  <ul class="posts">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+</div>
