@@ -1,6 +1,6 @@
 ---
-title: Treehouse
-subtitle: Website Design
+title: Project IV
+subtitle: Coming soon!
 layout: default
 modal-id: 4
 date: 2014-07-15

@@ -1,6 +1,6 @@
 ---
-title: Escape
-subtitle: Website Design
+title: Project II
+subtitle: Coming soon!
 layout: default
 modal-id: 2
 date: 2014-07-17
