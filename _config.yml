@@ -49,16 +49,16 @@ people:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: facebook
-    url: http://www.facebook.com/atamahjoubfar
+  - title: github
+    url: https://github.com/atamahjoubfar
   - title: graduation-cap
     url: https://scholar.google.com/citations?user=-Hsvgm4AAAAJ&hl=en&oi=ao
   - title: envelope
     url: mailto:ata.m@ucla.edu
   - title: linkedin
     url: https://www.linkedin.com/pub/ata-mahjoubfar/4a/818/bab
-  - title: github
-    url: https://github.com/atamahjoubfar
+  - title: facebook
+    url: http://www.facebook.com/atamahjoubfar
 
 # Postal address (add as many lines as necessary)
 address:
