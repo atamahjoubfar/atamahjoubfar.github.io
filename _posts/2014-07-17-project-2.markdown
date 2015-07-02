@@ -1,6 +1,6 @@
 ---
 title: Big data
-subtitle: Algorithm intellectual property
+subtitle: Intellectual property
 layout: default
 modal-id: 2
 date: 2015-07-01
