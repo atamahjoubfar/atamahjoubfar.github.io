@@ -2,7 +2,7 @@
 title: Imaging
 subtitle: Industrial surface inspection
 layout: default
-modal-id: 5
+modal-id: 2
 date: 2015-07-01
 img: startup-framework.png
 thumbnail: startup-framework-thumbnail.png

@@ -2,7 +2,7 @@
 title: Data acquisition
 subtitle: Photonic hardware accelerator
 layout: default
-modal-id: 4
+modal-id: 3
 date: 2015-07-01
 img: treehouse.png
 thumbnail: treehouse-thumbnail.png

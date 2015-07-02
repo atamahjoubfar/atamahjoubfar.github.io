@@ -2,7 +2,7 @@
 title: Machine learning
 subtitle: Cell image classification
 layout: default
-modal-id: 1
+modal-id: 6
 date: 2015-07-01
 img: dreams.png
 thumbnail: dreams-thumbnail.png
