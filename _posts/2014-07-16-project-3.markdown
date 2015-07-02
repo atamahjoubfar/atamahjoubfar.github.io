@@ -1,15 +1,17 @@
 ---
-title: Project III
-subtitle: Coming soon!
+title: Signal processing
+subtitle: Warped stretch transform
 layout: default
 modal-id: 3
-date: 2014-07-16
+date: 2015-07-01
 img: golden.png
 thumbnail: golden-thumbnail.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: Designed warped stretch transform for optimal compression based on spectrotemporal sparsity of the signal.
+publication: Sparsity and self-adaptivity in anamorphic stretch transform
+publication-url: http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=7086872&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D7086872
 
 ---

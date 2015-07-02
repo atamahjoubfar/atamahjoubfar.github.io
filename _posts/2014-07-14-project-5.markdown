@@ -1,15 +1,17 @@
 ---
-title: Project V
-subtitle: Coming soon!
+title: Imaging
+subtitle: Industrial surface inspection
 layout: default
 modal-id: 5
-date: 2014-07-14
+date: 2015-07-01
 img: startup-framework.png
 thumbnail: startup-framework-thumbnail.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: Designed world's fastest surface inspector capable of detecting defects as small as 10 µm² in a 3 cm field-of-view on moving objects at speeds up to 1,200 m/s.
+publication: Ultrafast dark-field surface inspection with hybrid-dispersion laser scanning
+publication-url: http://scitation.aip.org/content/aip/journal/apl/104/25/10.1063/1.4885147
 
 ---
