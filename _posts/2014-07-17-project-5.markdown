@@ -4,8 +4,8 @@ subtitle: Intellectual property
 layout: default
 modal-id: 5
 date: 2015-07-01
-img: escape.png
-thumbnail: escape-thumbnail.png
+img: historyflow.png
+thumbnail: historyflow-thumbnail.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
