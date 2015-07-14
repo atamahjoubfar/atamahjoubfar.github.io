@@ -4,8 +4,8 @@ subtitle: Label-free flow cytometry
 layout: default
 modal-id: 1
 date: 2015-07-01
-img: roundicons.png
-thumbnail: roundicons-thumbnail.png
+img: probes.png
+thumbnail: probes-thumbnail.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
