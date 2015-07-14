@@ -4,8 +4,8 @@ subtitle: Industrial surface inspection
 layout: default
 modal-id: 2
 date: 2015-07-01
-img: startup-framework.png
-thumbnail: startup-framework-thumbnail.png
+img: drum.png
+thumbnail: drum-thumbnail.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
