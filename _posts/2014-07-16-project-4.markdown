@@ -11,7 +11,7 @@ project-date: April 2014
 client: Start Bootstrap
 category: Web Development
 description: Designed warped stretch transform for optimal compression based on spectrotemporal sparsity of the signal.
-publication: Sparsity and self-adaptivity in anamorphic stretch transform
-publication-url: http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=7086872&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D7086872
+publication: Design of Warped Stretch Transform
+publication-url: http://www.nature.com/articles/srep17148
 
 ---
