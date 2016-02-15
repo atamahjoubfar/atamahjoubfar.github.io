@@ -1,5 +1,5 @@
 ---
-title: Imaging
+title: Machine vision
 subtitle: Industrial surface inspection
 layout: default
 modal-id: 2

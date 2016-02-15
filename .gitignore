@@ -6,3 +6,4 @@
 
 # Jekyll processed files
 _site/
+Gemfile.lock
