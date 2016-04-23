@@ -5,6 +5,13 @@ Agency theme based on [Agency bootstrap theme ](http://startbootstrap.com/templa
 
 # How to use
 
+Run these two commands in the terminal at the directory of the repository:
+```
+bundle update
+bundle exec jekyll serve
+```
+and check http://localhost:4000 for offline test.
+
 ###Portfolio 
 
 Portfolio projects are in '/_posts'
