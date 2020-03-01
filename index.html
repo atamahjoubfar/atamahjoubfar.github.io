@@ -1,20 +1,37 @@
----
-layout: default
----
+<!doctype html>
+<html>
+    <head>
+        <script src="https://kit.fontawesome.com/c8bdd588ba.js" crossorigin="anonymous"></script>
 
-<div class="home">
+        <style>
+            .center-middle {
+                height: 100%;
+                width: 100%;
+                display: flex;
+                position: fixed;
+                align-items: center;
+                justify-content: center;
+            }
+        </style>
+    </head>
 
-  <h1>Posts</h1>
+    <body>
+        <div class=center-middle>     
+            <span class="fa-stack fa-2x">
+                <i class="fas fa-circle fa-stack-2x"></i>
+                <a href="https://scholar.google.com/citations?user=-Hsvgm4AAAAJ&hl=en"><i class="fas fa-graduation-cap fa-stack-1x fa-inverse"></i></a>
+            </span>
+        
+            <span class="fa-stack fa-2x">
+                <i class="fas fa-circle fa-stack-2x"></i>
+                <a href="https://www.linkedin.com/in/atamahjoubfar/"><i class="fab fa-linkedin fa-stack-1x fa-inverse"></i></a>
+            </span>
+        
+            <span class="fa-stack fa-2x">
+                <i class="fas fa-circle fa-stack-2x"></i>
+                <a href="https://twitter.com/atamahjoubfar"><i class="fab fa-twitter fa-stack-1x fa-inverse"></i></a>
+            </span>
+        </div>
+    </body>
+</html>
 
-  <ul class="posts">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
-        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
-</div>
