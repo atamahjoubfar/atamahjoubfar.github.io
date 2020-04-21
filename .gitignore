@@ -1,4 +1,5 @@
 # OS generate files
+.DS_Store
 ._*
 
 # Compressed packages
